@@ -19,8 +19,8 @@ mystring = 'Hello'
 print(mystring)
 print(type(mystring)
 
-#including an apostrophe will propmt you use double quotes
+#including an apostrophe will prompt you use double quotes
 
-mystrings = "Don't you worry about a thing you are all sorted"
-print(mystrings)
+mystring = "Don't worry about apostrophes"
+print(mystring)
       
